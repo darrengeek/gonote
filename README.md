@@ -1,2 +1,4 @@
-# gonote
-保存go语言学习过程中的笔记与文章
+# gonote go语言学习笔记
+
+## 一、go语言标准库详解
+1.[第一节fmt包详解](seelog.xmge.top)
