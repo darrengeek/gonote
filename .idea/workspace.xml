@@ -2,31 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1050e07d-e92e-4179-9336-f8529eb099ef" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/watcherTasks.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/goland使用指南/img/key.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/goland使用指南/快捷键.md" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/goland使用指南/自动格式化.md" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/golang标准库/builtin/print_test.go" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/golang标准库/os/os_test.go" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/goland使用指南/goland安装.md" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/goland使用指南/img/activate.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/goland使用指南/安装下载激活goland.md" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/builtin/new_test.go" afterPath="$PROJECT_DIR$/golang标准库/builtin/new_test.go" />
-      <change beforePath="$PROJECT_DIR$/builtin/print_test.go" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/fmt/fprint.go" afterPath="$PROJECT_DIR$/golang标准库/fmt/fprint.go" />
-      <change beforePath="$PROJECT_DIR$/fmt/fprintf.go" afterPath="$PROJECT_DIR$/golang标准库/fmt/fprintf.go" />
-      <change beforePath="$PROJECT_DIR$/fmt/fprintln.go" afterPath="$PROJECT_DIR$/golang标准库/fmt/fprintln.go" />
-      <change beforePath="$PROJECT_DIR$/fmt/fscan.go" afterPath="$PROJECT_DIR$/golang标准库/fmt/fscan.go" />
-      <change beforePath="$PROJECT_DIR$/fmt/print.go" afterPath="$PROJECT_DIR$/golang标准库/fmt/print.go" />
-      <change beforePath="$PROJECT_DIR$/fmt/printf.go" afterPath="$PROJECT_DIR$/golang标准库/fmt/printf.go" />
-      <change beforePath="$PROJECT_DIR$/fmt/println.go" afterPath="$PROJECT_DIR$/golang标准库/fmt/println.go" />
-      <change beforePath="$PROJECT_DIR$/fmt/scan.go" afterPath="$PROJECT_DIR$/golang标准库/fmt/scan.go" />
-      <change beforePath="$PROJECT_DIR$/fmt/scanf.go" afterPath="$PROJECT_DIR$/golang标准库/fmt/scanf.go" />
-      <change beforePath="$PROJECT_DIR$/fmt/scanln.go" afterPath="$PROJECT_DIR$/golang标准库/fmt/scanln.go" />
-      <change beforePath="$PROJECT_DIR$/fmt/sprint.go" afterPath="$PROJECT_DIR$/golang标准库/fmt/sprint.go" />
-      <change beforePath="$PROJECT_DIR$/fmt/sprintf.go" afterPath="$PROJECT_DIR$/golang标准库/fmt/sprintf.go" />
-      <change beforePath="$PROJECT_DIR$/fmt/sprintln.go" afterPath="$PROJECT_DIR$/golang标准库/fmt/sprintln.go" />
-      <change beforePath="$PROJECT_DIR$/fmt/sscan.go" afterPath="$PROJECT_DIR$/golang标准库/fmt/sscan.go" />
-      <change beforePath="$PROJECT_DIR$/fmt/sscanf.go" afterPath="$PROJECT_DIR$/golang标准库/fmt/sscanf.go" />
-      <change beforePath="$PROJECT_DIR$/fmt/sscanln.go" afterPath="$PROJECT_DIR$/golang标准库/fmt/sscanln.go" />
+      <change beforePath="$PROJECT_DIR$/goland使用指南/自动格式化.md" afterPath="$PROJECT_DIR$/goland使用指南/自动格式化.md" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -69,7 +49,7 @@
           <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
             <state split_layout="SPLIT">
               <first_editor relative-caret-position="18">
-                <caret line="1" column="18" lean-forward="true" selection-start-line="1" selection-start-column="18" selection-end-line="1" selection-end-column="18" />
+                <caret line="1" column="18" lean-forward="false" selection-start-line="1" selection-start-column="18" selection-end-line="1" selection-end-column="18" />
                 <folding />
               </first_editor>
               <second_editor>
@@ -79,12 +59,17 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="print.go" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/golang标准库/fmt/print.go">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-              <folding />
+      <file leaf-file-name="README.md" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/README.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="72">
+                <caret line="4" column="0" lean-forward="false" selection-start-line="4" selection-start-column="0" selection-end-line="4" selection-end-column="0" />
+                <folding />
+              </first_editor>
+              <second_editor>
+                <markdownNavigatorState />
+              </second_editor>
             </state>
           </provider>
         </entry>
@@ -121,24 +106,12 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="fprintf.go" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/golang标准库/fmt/fprintf.go">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="144">
-              <caret line="8" column="0" lean-forward="false" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
-              <folding>
-                <element signature="e#14#31#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="自动格式化.md" pinned="false" current-in-tab="true">
+      <file leaf-file-name="自动格式化.md" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/goland使用指南/自动格式化.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="18">
-                <caret line="1" column="31" lean-forward="false" selection-start-line="1" selection-start-column="31" selection-end-line="1" selection-end-column="31" />
+              <first_editor relative-caret-position="36">
+                <caret line="2" column="34" lean-forward="false" selection-start-line="2" selection-start-column="34" selection-end-line="2" selection-end-column="34" />
                 <folding />
               </first_editor>
               <second_editor>
@@ -148,23 +121,35 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="os_test.go" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/golang标准库/os/os_test.go">
+      <file leaf-file-name="安装下载激活goland.md" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/goland使用指南/安装下载激活goland.md">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-139">
-              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+            <state relative-caret-position="162">
+              <caret line="9" column="48" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="30" selection-end-column="23" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="env.go" pinned="false" current-in-tab="false">
-        <entry file="file://$USER_HOME$/go/go1.10/src/os/env.go">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="204">
-              <caret line="100" column="5" lean-forward="false" selection-start-line="100" selection-start-column="5" selection-end-line="100" selection-end-column="5" />
-              <folding />
+      <file leaf-file-name="goland安装.md" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/goland使用指南/goland安装.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="122">
+                <caret line="18" column="76" lean-forward="false" selection-start-line="18" selection-start-column="76" selection-end-line="18" selection-end-column="76" />
+                <folding />
+              </first_editor>
+              <second_editor>
+                <markdownNavigatorState />
+              </second_editor>
             </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="key.png" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/goland使用指南/img/key.png">
+          <provider selected="true" editor-type-id="images">
+            <state />
           </provider>
         </entry>
       </file>
@@ -217,6 +202,9 @@
         <option value="$PROJECT_DIR$/golang标准库/fmt/fprintf.go" />
         <option value="$PROJECT_DIR$/golang标准库/fmt/fprint.go" />
         <option value="$PROJECT_DIR$/goland使用指南/自动格式化.md" />
+        <option value="$PROJECT_DIR$/goland使用指南/安装下载激活goland.md.go" />
+        <option value="$PROJECT_DIR$/goland使用指南/安装下载激活goland.md" />
+        <option value="$PROJECT_DIR$/goland使用指南/goland安装.md" />
       </list>
     </option>
   </component>
@@ -259,6 +247,11 @@
               <item name="gonote" type="462c0819:PsiDirectoryNode" />
               <item name="goland使用指南" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="gonote" type="b2602c69:ProjectViewProjectNode" />
+              <item name="gonote" type="462c0819:PsiDirectoryNode" />
+              <item name="golang标准库" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
@@ -279,6 +272,7 @@
       <recent name="$PROJECT_DIR$/goland使用指南" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/goland使用指南" />
       <recent name="$PROJECT_DIR$/goland使用指南/img" />
       <recent name="$PROJECT_DIR$/golang标准库" />
     </key>
@@ -406,7 +400,7 @@
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32985386" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Coverage" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.09211252" sideWeight="0.51246107" order="-1" side_tool="true" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.2498621" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32985386" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32985386" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="true" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.39979124" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
@@ -449,29 +443,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/fmt/fprintln.go">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="18">
-          <caret line="1" column="0" lean-forward="true" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/fmt/scanln.go">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="12" lean-forward="false" selection-start-line="0" selection-start-column="12" selection-end-line="0" selection-end-column="12" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/fmt.go" />
-    <entry file="file://$USER_HOME$/go/go1.10/src/fmt/scan.go">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="196">
-          <caret line="112" column="30" lean-forward="false" selection-start-line="112" selection-start-column="24" selection-end-line="112" selection-end-column="30" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/fmt/fprit.go" />
     <entry file="file://$USER_HOME$/go/go1.10/src/fmt/fmt_test.go">
       <provider selected="true" editor-type-id="text-editor">
@@ -665,19 +636,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/README.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="72">
-            <caret line="4" column="0" lean-forward="true" selection-start-line="4" selection-start-column="0" selection-end-line="4" selection-end-column="0" />
-            <folding />
-          </first_editor>
-          <second_editor>
-            <markdownNavigatorState />
-          </second_editor>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$USER_HOME$/go/go1.10/src/builtin/builtin.go">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="265">
@@ -784,19 +742,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/goland使用指南/快捷键.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="18">
-            <caret line="1" column="18" lean-forward="true" selection-start-line="1" selection-start-column="18" selection-end-line="1" selection-end-column="18" />
-            <folding />
-          </first_editor>
-          <second_editor>
-            <markdownNavigatorState />
-          </second_editor>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/golang标准库/os/os_test.go">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-139">
@@ -839,11 +784,76 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="72">
+            <caret line="4" column="0" lean-forward="false" selection-start-line="4" selection-start-column="0" selection-end-line="4" selection-end-column="0" />
+            <folding />
+          </first_editor>
+          <second_editor>
+            <markdownNavigatorState />
+          </second_editor>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/goland使用指南/激活goland.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="0">
+            <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+            <folding />
+          </first_editor>
+          <second_editor>
+            <markdownNavigatorState />
+          </second_editor>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/goland使用指南/自动格式化.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
         <state split_layout="SPLIT">
+          <first_editor relative-caret-position="36">
+            <caret line="2" column="34" lean-forward="false" selection-start-line="2" selection-start-column="34" selection-end-line="2" selection-end-column="34" />
+            <folding />
+          </first_editor>
+          <second_editor>
+            <markdownNavigatorState />
+          </second_editor>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/goland使用指南/快捷键.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
+        <state split_layout="SPLIT">
           <first_editor relative-caret-position="18">
-            <caret line="1" column="31" lean-forward="false" selection-start-line="1" selection-start-column="31" selection-end-line="1" selection-end-column="31" />
+            <caret line="1" column="18" lean-forward="false" selection-start-line="1" selection-start-column="18" selection-end-line="1" selection-end-column="18" />
+            <folding />
+          </first_editor>
+          <second_editor>
+            <markdownNavigatorState />
+          </second_editor>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/goland使用指南/img/key.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/goland使用指南/安装下载激活goland.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="162">
+          <caret line="9" column="48" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="30" selection-end-column="23" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/goland使用指南/goland安装.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="122">
+            <caret line="18" column="76" lean-forward="false" selection-start-line="18" selection-start-column="76" selection-end-line="18" selection-end-column="76" />
             <folding />
           </first_editor>
           <second_editor>

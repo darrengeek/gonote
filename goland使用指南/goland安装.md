@@ -1,0 +1,31 @@
+# 使用软件
+
+## 下载
+Windows下载地址：[https://download.jetbrains.com/go/goland-2018.2.1.exe](https://download.jetbrains.com/go/goland-2018.2.1.exe)
+macOs下载地址：[https://download-cf.jetbrains.com/go/goland-2018.2.1.dmg](https://download-cf.jetbrains.com/go/goland-2018.2.1.dmg)
+Linux下载地址：[https://download-cf.jetbrains.com/go/goland-2018.2.1.tar.gz](https://download-cf.jetbrains.com/go/goland-2018.2.1.tar.gz)
+
+## 安装
+Windows安装：直接双击golang-xxxx.xx.xx.exe，根据安装向导即可完成安装
+macOs安装：直接双击golang-xxxx.xx.xx.dmg,然后将golang程序拖入APP即可完成安装
+Linux安装：在文件目录下执行tar -zxvf golang-xxxx.xx.xx.tar.gz将tar包进行解压，然后进入golang，执行./goland 启动程序，
+然后将goland程序锁定在启动栏上
+
+## 激活
+由于官方的Goland软件，免费使用期限是30天。如果你不购买产品的话，就需要不断的卸载和重装软件才能使用。不过要是您的资金允许的话，
+可以去http://www.jetbrains.com/go/buy/#edition=commercial 购买正版。如果您是学生或者老师的话，
+可以去https://www.jetbrains.com/zh/student/，申请账号，注册成功后就可以免费使用JetBrains的所有产品。
+下面是免激活码的使用方法：
+1.首先去官网下载30天试用版本，在本地安装。成功后打开工具。这时页面会提示你选择哪种使用方式：JetBrains账号、激活码和授权服务器选项。
+![activate.png](img/activate.png)
+2也可以打开软件，在菜单栏中Help->register。就可以切换到上图页面。上图是注册页面。
+License server address栏中输入下面服务器地址http://intellij.mandroid.cn/，然后点击OK就可以了。
+由于原来提供的服务器地址http://intellij.mandroid.cn/已经不可用了，为了方便广大gopher使用此软件，现重新补充几个地址
+http://idea.imsxm.com/
+http://idea.youbbs.org
+http://btsha.com:41017
+http://idea.toocruel.net
+http://active.chinapyg.com/
+http://idea.congm.in
+http://idea.iteblog.com/key.php
+http://xdouble.cn:8888/
