@@ -1,6 +1,11 @@
-## 一、golnag标准库讲解
 
-### 一、go语言标准库详解
-1.[第一节fmt包详解](seelog.xmge.top)
+## 一、goland编辑器使用指南
+[1.goland介绍](goland使用指南/1.介绍.md)<br>
+[2.goland安装](goland使用指南/2.安装.md)<br>
+[3.常用设置](goland使用指南/3.常用设置.md)<br>
+[4.快捷键](goland使用指南/4.快捷键.md)<br>
+[5.插件安装](goland使用指南/5.插件安装.md)<br>
 
-## 二、goland编辑器使用指南
+## 二、golnag标准库详解
+[1.fmt包详解](seelog.xmge.top)
+
