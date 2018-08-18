@@ -48,10 +48,58 @@ func Test_Exit(t *testing.T) {
 	}()
 }
 
-// Expand函数替换s中的${var}或$var为mapping(var)。例如，os.ExpandEnv(s)等价于os.Expand(s, os.Getenv)。
+// Expand用mapping 函数指定的规则替换字符串中的${var}或者$var（注：变量之前必须有$符号）。比如，os.ExpandEnv(s)等效于os.Expand(s, os.Getenv)。
 func Test_Expand(t *testing.T) {
-	os.Expand("PATH", func(s string) string {
-		fmt.Println(s)
-		return s
-	})
+	mapping := func(key string) string {
+		m := make(map[string]string)
+		m = map[string]string{
+			"world": "kitty",
+			"hello": "hi",
+		}
+		if m[key] != "" {
+			return m[key]
+		}
+		return key
+	}
+	s := "hello,world"            //  hello,world，由于hello world之前没有$符号，则无法利用map规则进行转换
+	s1 := "$hello,$world $finish" //  hi,kitty finish，finish没有在map规则中，所以还是返回原来的值
+	fmt.Println(os.Expand(s, mapping))
+	fmt.Println(os.Expand(s1, mapping))
+}
+
+// TODO 未测试成功
+func Test_ExpandEnv(t *testing.T) {
+	s := "hello $GOROOT"
+	fmt.Println(os.ExpandEnv(s)) // hello /home/work/software/go，$GOROOT替换为环境变量的值，而h没有环境变量可以替换，返回空字符串
+
+}
+
+// Getuid返回调用者的用户ID。
+func Test_Getuid(t *testing.T) {
+	fmt.Println(os.Getuid())
+}
+
+//  Geteuid返回调用者的有效用户ID。
+func Test_Geteuid(t *testing.T) {
+	fmt.Println(os.Geteuid())
+}
+
+//  Getgroups返回调用者所属的所有用户组的组ID。
+func Test_Getgid(t *testing.T) {
+	fmt.Println(os.Getgid())
+}
+
+//  Getegid返回调用者的有效组ID。
+func Test_Getgroups(t *testing.T) {
+	fmt.Println(os.Getgroups())
+}
+
+// Getpid返回调用者所在进程的进程ID。
+func Test_Getpid(t *testing.T) {
+	fmt.Println(os.Getpid())
+}
+
+//  Getppid返回调用者所在进程的父进程的进程ID。
+func Test_Getppid(t *testing.T) {
+	fmt.Println(os.Getppid())
 }
