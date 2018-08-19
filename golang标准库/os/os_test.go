@@ -103,3 +103,7 @@ func Test_Getpid(t *testing.T) {
 func Test_Getppid(t *testing.T) {
 	fmt.Println(os.Getppid())
 }
+
+func ()  {
+	
+}
