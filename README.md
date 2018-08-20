@@ -1,4 +1,8 @@
 
+
+欢迎各位gopher一起来完善这份笔记，让更多的人能够了解go语言，学习go语言，使用go语言，热爱go语言。谢谢大家 :blush: :thumbsup:
+***
+
 ## 一、goland编辑器使用指南
 [1.goland介绍](goland使用指南/1.介绍.md)<br>
 [2.goland安装](goland使用指南/2.安装.md)<br>
