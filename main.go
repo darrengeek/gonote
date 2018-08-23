@@ -27,4 +27,7 @@ func main() {
 	b3,ok := <-c
 	fmt.Printf("b3:%t,ok:%t \n",b3,ok)
 	// b3:false,ok:false
+
+	a := []byte{}
+	a.len()
 }
