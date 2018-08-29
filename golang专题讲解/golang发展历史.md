@@ -31,9 +31,9 @@ Go语言官方自称,之所以开发go语言,是因为”近10年来的开发程
 * 2018年8月24日，Go语言Go 1.11版发布。
 
 ### 4、Logo和吉祥物
-* golnag的logo<br>
+* logo<br>
 ![go_logo](../images/go_logo.png)
-* golang吉祥物<br>
+* 吉祥物<br>
 ![go_logo](../images/go_mascot.jpeg)
 
 ### 5、gopher的含义
