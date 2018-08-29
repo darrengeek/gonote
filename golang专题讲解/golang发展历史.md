@@ -1,17 +1,17 @@
-1. 为什么开发go语言？
+#### 1.为什么开发go语言？
 
 * 谷歌工程师的20%时间,音服务Google Now、谷歌新闻Google News、谷歌地图Google Map上的交通信息等，全都是20%时间的产物。
 * Go语言官方自称,之所以开发go语言,是因为”近10年来的开发程序之难让我们有点沮丧”.
 * 我看前面有个谷歌工程师的答主说它的目标是适合大团队开发，能解决google以前在C++开发(我觉得这里的C++开发应该是应用开发，而不是题主说的system programming)中遇到的问题。这才是go出世的真正目的。
 
 
-2. 谁开发的go语言？
+#### 2.谁开发的go语言？
 
 * 谷歌首席软件工程师罗布派克(Rob Pike) 61岁
 * 罗伯特·格瑞史莫(Robert Griesemer)
 * 肯尼斯·汤普逊(Ken Thompson)
 
-3. go语言的发展历程？
+#### 3.go语言的发展历程？
 
 * 2007年，谷歌工程师Rob Pike, Ken Thompson和Robert Griesemer开始设计一门全新的语言，这是Go语言的最初原型。
 * 2009年11月10日，Go语言以开放源代码的方式向全球发布。
@@ -34,11 +34,11 @@
 * 2017年8月24日，Go语言Go 1.9版发布。
 * 2018年2月16日，Go语言Go 1.10版发布。
 
-4. golang的Logo和吉祥物各是什么？
+#### 4.golang的Logo和吉祥物各是什么？
 
 > ![go_logo](../images/go_logo.png)<br>![go_logo](../images/go_mascot.jpeg)
 
-5. gopher是什么意思?
+#### 5.gopher是什么意思?
 
 gopher是一种生活在加拿大的小动物，go吉祥物就是这个小动物， gopher的中文名叫做
 [囊地鼠](https://baike.baidu.com/item/%E5%9B%8A%E5%9C%B0%E9%BC%A0/7633156?fr=aladdin),
