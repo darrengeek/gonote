@@ -43,7 +43,9 @@
 
 5. gopher是什么意思?
 
-gopher是一种小动物，吉祥物就是这个小动物的图像， 这种动物中文名叫做[囊地鼠](https://baike.baidu.com/item/%E5%9B%8A%E5%9C%B0%E9%BC%A0/7633156?fr=aladdin),
-囊地鼠大部分生活在底下，它挖掘十分迅速。囊地鼠的这种挖掘迅速的特点页正在go语言的特点。
+gopher是一种生活在加拿大的小动物，go吉祥物就是这个小动物， gopher的中文名叫做
+[囊地鼠](https://baike.baidu.com/item/%E5%9B%8A%E5%9C%B0%E9%BC%A0/7633156?fr=aladdin),
+这种动物有个特点就是生活在底下，哈哈，当然这个不是最关键的，他们最大的特点就是挖洞速度特别快，当然
+可能不止是挖洞啦。笔者猜测go之所以叫go,是想表达这门语言的运行速度、开发速度、学习速度（develop）都像gopher一样快。
 
 > ![gopher](../images/gopher.jpeg) ![gopher](../images/geomyidae.jpg)
