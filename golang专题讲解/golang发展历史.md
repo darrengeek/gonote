@@ -34,11 +34,11 @@
 * 2017年8月24日，Go语言Go 1.9版发布。
 * 2018年2月16日，Go语言Go 1.10版发布。
 
-#### 4.golang的Logo和吉祥物各是什么？
+### 4.golang的Logo和吉祥物各是什么？
 
 > ![go_logo](../images/go_logo.png)<br>![go_logo](../images/go_mascot.jpeg)
 
-#### 5.gopher是什么意思?
+### 5.gopher是什么意思?
 
 gopher是一种生活在加拿大的小动物，go吉祥物就是这个小动物， gopher的中文名叫做
 [囊地鼠](https://baike.baidu.com/item/%E5%9B%8A%E5%9C%B0%E9%BC%A0/7633156?fr=aladdin),
