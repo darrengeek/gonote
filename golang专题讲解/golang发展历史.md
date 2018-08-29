@@ -47,6 +47,6 @@ gopher是一种生活在加拿大的小动物，go的吉祥物就是这个小动
 ---
 
 作者：xmge<br>
-链接:[golang专题讲解-golang发展历史](https://github.com/xmge/gonote/edit/master/golang%E4%B8%93%E9%A2%98%E8%AE%B2%E8%A7%A3/golang%E5%8F%91%E5%B1%95%E5%8E%86%E5%8F%B2.md)<br>
+链接：[golang专题讲解-golang发展历史](https://github.com/xmge/gonote/edit/master/golang%E4%B8%93%E9%A2%98%E8%AE%B2%E8%A7%A3/golang%E5%8F%91%E5%B1%95%E5%8E%86%E5%8F%B2.md)<br>
 来源：github<br>
 著作权归作者所有。商业转载请联系作者获得授权，非商业转载请注明出处。
