@@ -41,7 +41,8 @@ gopher是一种生活在加拿大的小动物，go的吉祥物就是这个小动
 [囊地鼠](https://baike.baidu.com/item/%E5%9B%8A%E5%9C%B0%E9%BC%A0/7633156?fr=aladdin),
 这种动物有个特点就是生活在底下，哈哈，当然这个不是最关键的，他们最大的特点就是挖洞速度特别快，当然
 可能不止是挖洞啦。笔者猜测go之所以叫go,是想表达这门语言的运行速度、开发速度、学习速度（develop）都像gopher一样快。<br>
-![gopher](../images/gopher.jpeg) ![gopher](../images/geomyidae.jpg)
+<img src="../images/gopher.jpeg" height="200" width="260" alt="gopher">&nbsp;
+<img src="../images/geomyidae.jpg" height="200" width="260" alt="gopher">
 
 
 ---

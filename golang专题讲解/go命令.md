@@ -1,4 +1,6 @@
-go get
+1. go get
+
+
 go install
 go fmt
 go generate
