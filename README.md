@@ -1,4 +1,4 @@
-欢迎各位gopher一起来完善这份笔记，让更多的人能够了解go，学习go，使用go，热爱go。谢谢大家 :blush: :thumbsup:
+欢迎各位gopher一起来完善这份笔记，让更多的人能够了解go，学习go，使用go，热爱go. 谢谢大家 :blush: :thumbsup:
 ***
 
 ## 一、goland编辑器使用指南
