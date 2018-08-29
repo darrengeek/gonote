@@ -1,13 +1,13 @@
-### 1.为什么开发go语言？
+### 1.研发背景
 Go语言官方自称,之所以开发go语言,是因为”近10年来的开发程序之难让我们有点沮丧（开发效率低，不适合团队开发）”，于是乎他们利用谷歌工程师的20%时间（谷歌允许员工抽出本职工作之外时间的20%来开发项目）开发了go语言。
 
-### 2.谁开发的go语言？
+### 2.研发人员
 * Thompson：1983年图灵奖（Turing Award）和1998年美国国家技术奖（National Medal of Technology）得主。他与Dennis Ritchie是Unix的原创者。Thompson也发明了后来衍生出C语言的B程序语言。
 * Pike：曾是贝尔实验室（Bell Labs）的Unix团队，和Plan 9操作系统计划的成员。他与Thompson共事多年，并共创出广泛使用的UTF-8 字元编码。
 * Robert Griesemer：曾协助制作Java的HotSpot编译器，和Chrome浏览器的JavaScript引擎V8。
 * 此外还有Plan 9开发者Russ Cox、和曾改善目前广泛使用之开原码编译器GCC的Ian Taylor。
 
-### 3.go语言的发展历程？
+### 3.发展历程
 * 2007年，谷歌工程师Rob Pike, Ken Thompson和Robert Griesemer开始设计一门全新的语言，这是Go语言的最初原型。
 * 2009年11月10日，Go语言以开放源代码的方式向全球发布。
 * 2011年3月16日，Go语言的第一个稳定(stable)版本r56发布。
@@ -30,10 +30,10 @@ Go语言官方自称,之所以开发go语言,是因为”近10年来的开发程
 * 2018年2月16日，Go语言Go 1.10版发布。
 * 2018年8月24日，Go语言Go 1.11版发布。
 
-### 4.golang的Logo和吉祥物各是什么？
+### 4.Logo和吉祥物
 > ![go_logo](../images/go_logo.png)<br>![go_logo](../images/go_mascot.jpeg)
 
-### 5.gopher是什么意思?
+### 5.gopher的含义
 gopher是一种生活在加拿大的小动物，go的吉祥物就是这个小动物， 它的中文名叫做
 [囊地鼠](https://baike.baidu.com/item/%E5%9B%8A%E5%9C%B0%E9%BC%A0/7633156?fr=aladdin),
 这种动物有个特点就是生活在底下，哈哈，当然这个不是最关键的，他们最大的特点就是挖洞速度特别快，当然
