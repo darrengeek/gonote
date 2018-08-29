@@ -31,7 +31,10 @@ Go语言官方自称,之所以开发go语言,是因为”近10年来的开发程
 * 2018年8月24日，Go语言Go 1.11版发布。
 
 ### 4、Logo和吉祥物
-> ![go_logo](../images/go_logo.png)<br>![go_logo](../images/go_mascot.jpeg)
+* golnag的logo<br>
+![go_logo](../images/go_logo.png)
+* golang吉祥物<br>
+![go_logo](../images/go_mascot.jpeg)
 
 ### 5、gopher的含义
 gopher是一种生活在加拿大的小动物，go的吉祥物就是这个小动物， 它的中文名叫做
