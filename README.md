@@ -6,8 +6,8 @@
 ### [四、golnag标准库](https://github.com/xmge/gonote/blob/master/golang%E6%A0%87%E5%87%86%E5%BA%93/README.md)
 ### [五、golang面试题](https://github.com/xmge/gonote/blob/master/golang%E9%9D%A2%E8%AF%95%E9%A2%98/README.md)
 
-
-欢迎各位gopher一起来完善这份笔记，让更多的人能够了解go，学习go，使用go，热爱go. 谢谢大家 :blush: :thumbsup:
+---
+> 欢迎各位gopher一起来完善这份笔记，让更多的人能够了解go，学习go，使用go，热爱go. 谢谢大家 :blush: :thumbsup:
 
 
 
