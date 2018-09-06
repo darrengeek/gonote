@@ -9,9 +9,9 @@
 * 2.《系统学习Docker 践行DevOps理念》<br>
  链接：https://pan.baidu.com/s/1vcIgFRxRo0Pul8k7McW55w<br>
  密码：tu7k
-* 3.《Docker+Kubernetes(k8s)微服务容器化实践》<br>
- 链接：https://pan.baidu.com/s/1YFuRZXWgV7dxQpMQ-v-TPA<br>
- 密码：awzc
+* 3.《区块链入门与去中心化应用实战》<br>
+ 链接：https://pan.baidu.com/s/1IRZ0YmueQRb5mLMB5LzTYw<br>
+ 密码：xihx
 * 4.《Google资深工程师深度讲解Go语言》》<br>
  链接：https://pan.baidu.com/s/1dfvjQRiqQ5XMIjqr9mAqAw<br>
  密码：3n1u
