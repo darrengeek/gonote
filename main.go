@@ -1,23 +1,9 @@
 package main
 
-
-type student struct {
-	Name string
-	Age  int
-}
-
-func pase_student() {
-	m := make(map[string]*student)
-	stus := []student{
-		{Name: "zhou", Age: 24},
-		{Name: "li", Age: 23},
-		{Name: "wang", Age: 22},
-	}
-	for _, stu := range stus {
-		m[stu.Name] = &stu
-	}
-}
+import "fmt"
 
 func main() {
-	pase_student()
+	s := make([]int, 5)
+	s = append(s, 1, 2, 3)
+	fmt.Println(s)
 }
