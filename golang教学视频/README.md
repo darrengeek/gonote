@@ -2,6 +2,7 @@
 > 看过斗破苍穹的都知道，主人公进步神速，和药老不无关系。拜师学艺，如是而已。
 
 > 吃水不忘挖井人，在此感谢资源提供的大佬：[刘南宁](https://studygolang.com/user/lnn0818)
+> 资源辉不断更新，大家有什么好的资源页可以在此分享..
 
 * 1.《Docker+Kubernetes(k8s)微服务容器化实践》<br>
  链接：https://pan.baidu.com/s/1YFuRZXWgV7dxQpMQ-v-TPA<br>
