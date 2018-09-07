@@ -2,17 +2,33 @@ package main
 
 import "fmt"
 
-func calc(index string, a, b int) int {
-	ret := a + b
-	fmt.Println(index, a, b, ret)
-	return ret
+type People struct{}
+
+func (p *People) ShowA() {
+	fmt.Println("showA")
+	p.ShowB()
+}
+func (p *People) ShowB() {
+	fmt.Println("showB")
+}
+
+type Te struct {
+}
+
+func (t *Te) ShowA() {
+	fmt.Println("TEEEEEEEEEEEEEEE")
+}
+
+type Teacher struct {
+	People
+	Te
+}
+
+func (t *Teacher) ShowB() {
+	fmt.Println("teacher showB")
 }
 
 func main() {
-	a := 1
-	b := 2
-	defer calc("1", a, calc("10", a, b))
-	a = 0
-	defer calc("2", a, calc("20", a, b))
-	b = 1
+	t := Teacher{}
+	t.ShowA()
 }
