@@ -2,25 +2,25 @@ package main
 
 import (
 	"fmt"
-	"runtime"
-	"sync"
 )
 
+type People interface {
+	Speak(string) string
+}
+
+type Stduent struct{}
+
+func (stu *Stduent) Speak(think string) (talk string) {
+	if think == "bitch" {
+		talk = "You are a good boy"
+	} else {
+		talk = "hi"
+	}
+	return
+}
+
 func main() {
-	runtime.GOMAXPROCS(1)
-	wg := sync.WaitGroup{}
-	wg.Add(20)
-	for i := 0; i < 10; i++ {
-		go func() {
-			fmt.Println("i: ", i)
-			wg.Done()
-		}()
-	}
-	for i := 0; i < 10; i++ {
-		go func(i int) {
-			fmt.Println("i: ", i)
-			wg.Done()
-		}(i)
-	}
-	wg.Wait()
+	var peo People = Stduent{}
+	think := "bitch"
+	fmt.Println(peo.Speak(think))
 }
