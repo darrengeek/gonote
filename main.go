@@ -4,23 +4,32 @@ import (
 	"fmt"
 )
 
-type People interface {
-	Speak(string) string
+type People struct{}
+
+func (p *People) ShowA() {
+	fmt.Println("showA")
+	p.ShowB()
+}
+func (p *People) ShowB() {
+	fmt.Println("showB")
 }
 
-type Stduent struct{}
+type Human struct{}
 
-func (stu *Stduent) Speak(think string) (talk string) {
-	if think == "bitch" {
-		talk = "You are a good boy"
-	} else {
-		talk = "hi"
-	}
-	return
+func (h *Human) ShowA() {
+	fmt.Println("Human showA")
+}
+
+type Teacher struct {
+	Human
+	People
+}
+
+func (t *Teacher) ShowB() {
+	fmt.Println("teacher showB")
 }
 
 func main() {
-	var peo People = Stduent{}
-	think := "bitch"
-	fmt.Println(peo.Speak(think))
+	t := Teacher{}
+	t.ShowA()
 }
