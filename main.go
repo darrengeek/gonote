@@ -4,23 +4,14 @@ import (
 	"fmt"
 )
 
-type People interface {
-	Speak(string) string
-}
-
-type Stduent struct{}
-
-func (stu *Stduent) Speak(think string) (talk string) {
-	if think == "bitch" {
-		talk = "You are a good boy"
-	} else {
-		talk = "hi"
-	}
-	return
-}
-
 func main() {
-	var peo People = Stduent{}
-	think := "bitch"
-	fmt.Println(peo.Speak(think))
+	defer_call()
+}
+
+func defer_call() {
+	defer func() { fmt.Println("打印前") }()
+	defer func() { fmt.Println("打印中") }()
+	defer func() { fmt.Println("打印后") }()
+
+	panic("触发异常")
 }
