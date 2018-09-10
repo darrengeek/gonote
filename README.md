@@ -1,4 +1,5 @@
-![banner](images/banner.png)
+![banner](images/banner.png)[![License](https://img.shields.io/badge/license-MIT-brightgreen.svg)](https://github.com/xmge/seelog/blob/master/LICENSE)
+
 
 ### [一、goland使用指南](https://github.com/xmge/gonote/blob/master/goland%E4%BD%BF%E7%94%A8%E6%8C%87%E5%8D%97/README.md) 
 ### [二、golnag专题讲解](https://github.com/xmge/gonote/blob/master/golang%E4%B8%93%E9%A2%98%E8%AE%B2%E8%A7%A3/README.md)
