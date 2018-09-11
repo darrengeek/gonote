@@ -39,3 +39,7 @@
  链接: https://pan.baidu.com/s/1CDnuKHJn0BA9OAnsmd8adA<br>
  密码: qjr3
 
+* 10.《黑马Go语言快速入门（2018年2月更新精品，不带源码课件）》<br>
+ 链接：https://pan.baidu.com/s/1u50RcepOgGmgar0FG_bOMw<br>
+ 密码: wckx
+
