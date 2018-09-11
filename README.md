@@ -1,6 +1,8 @@
 ![banner](images/banner.png)<br>
 [![License](https://img.shields.io/badge/license-MIT-brightgreen.svg)](https://github.com/xmge/gonote/blob/master/LICENSE)
 [![blog](https://img.shields.io/badge/Author-Blog-7AD6FD.svg)](https://github.com/xmge)
+[![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](https://github.com/xmge)
+
 
 
 ### [一、goland使用指南](https://github.com/xmge/gonote/blob/master/goland%E4%BD%BF%E7%94%A8%E6%8C%87%E5%8D%97/README.md) 
