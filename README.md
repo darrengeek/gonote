@@ -1,7 +1,7 @@
 ![banner](images/banner.png)<br>
 [![License](https://img.shields.io/badge/license-MIT-brightgreen.svg)](https://github.com/xmge/gonote/blob/master/LICENSE)
 [![blog](https://img.shields.io/badge/Author-Blog-7AD6FD.svg)](https://github.com/xmge)
-[![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](https://github.com/xmge)
+[![Open Source Love](https://badges.frapsoft.com/os/v3/open-source.svg?v=103)](https://github.com/xmge)
 
 
 
