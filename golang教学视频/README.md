@@ -1,7 +1,7 @@
 ## golang教学视频
 > 看过斗破苍穹的都知道，主人公进步神速，和药老不无关系。拜师学艺，如是而已。资源会不断更新，大家有什么好的资源也可以在此分享..
 
-> 吃水不忘挖井人，在此感谢资源提供的大佬：[刘南宁](https://studygolang.com/user/lnn0818)
+> 吃水不忘挖井人，在此感谢资源提供的大佬：[刘南宁](https://studygolang.com/user/lnn0818)、[situ138](https://github.com/situ138)
 
 * 1.《Google资深工程师深度讲解Go语言》》<br>
  链接: https://pan.baidu.com/s/1IGM-Zqz92AdkskqjBxpeDA<br>
