@@ -1,3 +1,6 @@
+#### 好多第三方包会在结构体增加tag来完成一些功能。他们是如何做到的呢？ 看代码：
+
+```go
 package main
 
 import (
@@ -19,7 +22,22 @@ func main() {
 		fmt.Println(s.Field(i).Tag.Get("json"))
 		fmt.Println(s.Field(i).Tag.Get("orm"))
 
+		/*
+         输出：
+             json:"name" orm:"pk"
+             name
+             pk
+             json:"sex"  orm:"null"
+             sex
+             null
+         */
+
 		// blablabla....  根据相应的tag做相应的处理
 
 	}
 }
+
+
+
+
+```

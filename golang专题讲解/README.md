@@ -5,3 +5,4 @@
 * [2.golang交叉编译](golang交叉编译.md)<br>
 * [3.golang优点](golang优点.md)<br>
 * [4.golang适合做什么](golang适合做什么.md)<br>
+* [5.struct_tag获取](struct_tag获取.md)<br>
