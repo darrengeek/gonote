@@ -1,1 +1,1 @@
-package golang开源项目
+项目地址：https://github.com/jinzhu/gorm
