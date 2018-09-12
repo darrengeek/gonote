@@ -6,5 +6,5 @@
 * [3.melody_websocket框架](melody_websocket框架.md)<br>
 * [4.grpc_go语言的RPC系统](grpc_go语言的RPC系统.md)<br>
 * [5.gorm--orm框架](gorm--orm框架.md)<br>
-* [6.casbin--权限控制框架](casbin--权限控制框架)<br>
+* [6.casbin--权限控制框架](casbin--权限控制框架.md)<br>
 * [7.colly--好用的爬虫框架](colly--好用的爬虫框架.md)<br>
