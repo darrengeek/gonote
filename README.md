@@ -4,7 +4,7 @@
 [![Open Source Love](https://badges.frapsoft.com/os/v2/open-source.png?v=103)](https://github.com/xmge)
 ## Stargazers over time
 
-[![Stargazers over time](https://starcharts.herokuapp.com/xmge/gonote.svg)]
+[![Stargazers over time](https://starcharts.herokuapp.com/xmge/gonote.svg)](https://starcharts.herokuapp.com/xmge/gonote)
 
 ## 1. goland使用指南
 
