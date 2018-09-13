@@ -2,6 +2,10 @@
 [![License](https://img.shields.io/badge/license-MIT-brightgreen.svg)](https://github.com/xmge/gonote/blob/master/LICENSE)
 [![blog](https://img.shields.io/badge/Author-Blog-7AD6FD.svg)](https://github.com/xmge)
 [![Open Source Love](https://badges.frapsoft.com/os/v2/open-source.png?v=103)](https://github.com/xmge)
+[![GitHub stars](https://img.shields.io/github/stars/developer-learning/night-reading-go.svg?label=Stars)](https://github.com/developer-learning/night-reading-go) 
+[![GitHub forks](https://img.shields.io/github/forks/developer-learning/night-reading-go.svg?label=Fork)](https://github.com/developer-learning/night-reading-go) 
+[![All Contributors](https://img.shields.io/badge/all_contributors-19-orange.svg?style=flat-square)](#contributors)
+
 ## Stargazers over time
 
 [![Stargazers over time](https://starcharts.herokuapp.com/xmge/gonote.svg)](https://starcharts.herokuapp.com/xmge/gonote)
