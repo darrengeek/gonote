@@ -6,6 +6,8 @@
 
 [![Stargazers over time](https://starcharts.herokuapp.com/xmge/gonote.svg)](https://starcharts.herokuapp.com/xmge/gonote)
 
+---
+
 ## 1. goland使用指南
 
 - [1.goland介绍](https://github.com/xmge/gonote/blob/master/goland%E4%BD%BF%E7%94%A8%E6%8C%87%E5%8D%97/1.%E4%BB%8B%E7%BB%8D.md)<br>
