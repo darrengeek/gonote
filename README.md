@@ -3,7 +3,8 @@
 [![blog](https://img.shields.io/badge/Author-Blog-7AD6FD.svg)](https://github.com/xmge)
 [![Open Source Love](https://badges.frapsoft.com/os/v2/open-source.png?v=103)](https://github.com/xmge)
 [![GitHub stars](https://img.shields.io/github/stars/xmge/gonote.svg?label=Stars)](https://github.com/xmge/gonote) 
-[![GitHub forks](https://img.shields.io/github/forks/xmge/gonote.svg?label=Fork)](https://github.com/xmge/gonote) 
+[![GitHub forks](https://img.shields.io/github/forks/xmge/gonote.svg?label=Fork)](https://github.com/xmge/gonote)
+[![All Contributors](https://img.shields.io/badge/all_contributors-19-orange.svg?style=flat-square)](#contributors) 
 
 
 ---
