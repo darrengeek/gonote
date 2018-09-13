@@ -2,7 +2,9 @@
 [![License](https://img.shields.io/badge/license-MIT-brightgreen.svg)](https://github.com/xmge/gonote/blob/master/LICENSE)
 [![blog](https://img.shields.io/badge/Author-Blog-7AD6FD.svg)](https://github.com/xmge)
 [![Open Source Love](https://badges.frapsoft.com/os/v2/open-source.png?v=103)](https://github.com/xmge)
+## Stargazers over time
 
+[![Stargazers over time](https://starcharts.herokuapp.com/xmge/gonote.svg)]
 
 ## 1. goland使用指南
 
