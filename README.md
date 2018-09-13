@@ -6,9 +6,6 @@
 [![GitHub forks](https://img.shields.io/github/forks/developer-learning/night-reading-go.svg?label=Fork)](https://github.com/developer-learning/night-reading-go) 
 [![All Contributors](https://img.shields.io/badge/all_contributors-19-orange.svg?style=flat-square)](#contributors)
 
-## Stargazers over time
-
-[![Stargazers over time](https://starcharts.herokuapp.com/xmge/gonote.svg)](https://starcharts.herokuapp.com/xmge/gonote)
 
 ---
 
