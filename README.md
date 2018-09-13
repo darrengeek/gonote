@@ -62,7 +62,7 @@
 | 7 | 220小时快速入门go语言视频| https://pan.baidu.com/s/1SOybRHWSpbu16D4SmPR_Fg | ss32 |
 | 8 | go语言教程-老男孩教学| https://pan.baidu.com/s/1TfApasVzngYRxxHotq-4Fg | yqqs |
 | 9 | 基于Golang协程实现流量统计系统| https://pan.baidu.com/s/1CDnuKHJn0BA9OAnsmd8adA | qjr3 |
-| 10 | 黑马Go语言快速入门（2018年2月更新精品，不带源码课件| https://pan.baidu.com/s/1u50RcepOgGmgar0FG_bOMw | wckx |
+| 10 | 黑马Go语言快速入门| https://pan.baidu.com/s/1u50RcepOgGmgar0FG_bOMw | wckx |
 
 ## 6. golang标准库
 > 标准库对于广大亲爱的gopher而言，无疑是一笔巨大的财富，我们应该将这笔巨大的财富掌握在自己的手中，让其发挥出真正的作用，展现出耀眼的光芒。
