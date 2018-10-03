@@ -51,7 +51,7 @@
  * [8.Go语言程序设计_en](golang书籍大全/Go语言程序设计_en.pdf)<br>
  * [9.LiteIDE使用帮助](golang书籍大全/LiteIDE使用帮助.pdf)<br>
  * [10.The_Go_Programming_Language](golang书籍大全/The_Go_Programming_Language.pdf)<br>
- * [11.雨痕大神笔记](GoYu Yan Xue Xi Bi Ji - Yu Hen.pdf)<br>
+ * [11.雨痕大神笔记](GoYuYanXueXiBiJi-YuHen.pdf)<br>
 
 ## 5 .golang教学视频
 > 看过斗破苍穹的都知道，主人公进步神速，和药老不无关系。拜师学艺，如是而已。资源会不断更新，大家有什么好的资源也可以在此分享..

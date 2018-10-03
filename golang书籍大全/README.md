@@ -11,4 +11,4 @@
  * [8.Go语言程序设计_en](Go语言程序设计_en.pdf)<br>
  * [9.LiteIDE使用帮助](LiteIDE使用帮助.pdf)<br>
  * [10.The_Go_Programming_Language](The_Go_Programming_Language.pdf)<br>
- * [11.雨痕大神笔记](GoYu Yan Xue Xi Bi Ji - Yu Hen.pdf)<br>
+ * [11.雨痕大神笔记](GoYuYanXueXiBiJi-YuHen.pdf)<br>
