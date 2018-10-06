@@ -54,7 +54,7 @@
 
 ## 5 .golang教学视频
 > 看过斗破苍穹的都知道，主人公进步神速，和药老不无关系。拜师学艺，如是而已。资源会不断更新，大家有什么好的资源也可以在此分享..
- 吃水不忘挖井人，在此感谢资源提供的大佬：[刘南宁](https://studygolang.com/user/lnn0818)、[situ138](https://github.com/situ138)
+ 吃水不忘挖井人，在此感谢资源提供的大佬：[刘南宁](https://studygolang.com/user/lnn0818)、[situ138](https://github.com/situ138)、[宋波](https://studygolang.com/user/yanxin)
 
 | 序号 | 课程 | 链接 | 密码 |
 | :---- | :---- | :----|:----|
@@ -68,6 +68,8 @@
 | 8 | go语言教程-老男孩教学| https://pan.baidu.com/s/1TfApasVzngYRxxHotq-4Fg | yqqs |
 | 9 | 基于Golang协程实现流量统计系统| https://pan.baidu.com/s/1CDnuKHJn0BA9OAnsmd8adA | qjr3 |
 | 10 | 黑马Go语言快速入门| https://pan.baidu.com/s/1u50RcepOgGmgar0FG_bOMw | wckx |
+| 11 | 11、1901-2018年区块链与加密货币技术比特币以太坊全套零基础视频教程[全网最全-持续更新]| https://pan.baidu.com/s/1wPz8SBXabXAv3SZaLd9yKQ | 682b |
+| 12 | 12、区块链+go语言| https://pan.baidu.com/s/1M-Xgj8NUG5S-2HhjL5TXVQ | gbaj |
 
 ## 6. golang标准库
 > 标准库对于广大亲爱的gopher而言，无疑是一笔巨大的财富，我们应该将这笔巨大的财富掌握在自己的手中，让其发挥出真正的作用，展现出耀眼的光芒。
